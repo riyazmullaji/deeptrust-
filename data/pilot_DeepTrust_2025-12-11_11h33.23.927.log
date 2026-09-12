@@ -1,0 +1,247 @@
+9.3294 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+9.3300 	INFO 	Loaded monitor calibration from ['2025_11_20 17:14']
+10.1129 	INFO 	Using renderer 'Intel(R) Iris(R) Xe Graphics' for graphics
+10.1129 	INFO 	OpenGL version supported by driver is 4..
+10.1337 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000155698A2470>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000155698A24D0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.7569, 1.    , 1.    ]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000015569987100>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(560.0), np.float64(240.0)], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.1338 	EXP 	window1: backgroundImage = ''
+10.1338 	EXP 	window1: backgroundFit = 'none'
+10.1575 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1666 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1761 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1862 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1962 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2057 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2156 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2257 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2354 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2460 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2559 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2650 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2743 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2845 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2948 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3054 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3155 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3258 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3357 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3462 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3562 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3565 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.3776 	DEBUG 	Upload of Texture Font fontname complete
+10.3926 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4023 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4118 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4120 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.4152 	DEBUG 	Upload of Texture Font fontname complete
+10.4166 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.4166 	EXP 	window1: recordFrameIntervals = False
+10.5806 	EXP 	window1: recordFrameIntervals = True
+10.7650 	EXP 	Screen (0) actual frame rate measured at 59.86Hz
+10.7651 	EXP 	window1: recordFrameIntervals = False
+10.7812 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7906 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8014 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8125 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8229 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8331 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8430 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8533 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8638 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8741 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8744 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.8749 	DEBUG 	Upload of Texture Font fontname complete
+11.0265 	INFO 	keyboard.Keyboard is using ptb backend.
+11.0267 	INFO 	keyboard.Keyboard is using ptb backend.
+11.0268 	INFO 	keyboard.Keyboard is using ptb backend.
+11.0268 	INFO 	keyboard.Keyboard is using ptb backend.
+11.0268 	INFO 	keyboard.Keyboard is using ptb backend.
+11.0269 	INFO 	keyboard.Keyboard is using ptb backend.
+11.0269 	EXP 	DeepTrust: status = STARTED
+11.0322 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0332 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0339 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0347 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0355 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0361 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0367 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0375 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0383 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0390 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0398 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0405 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0413 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0429 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0438 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0446 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0455 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0462 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0469 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0477 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0484 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0491 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0500 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0508 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0516 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0525 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0533 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0541 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0548 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0556 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0565 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0574 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0589 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0596 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0606 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0616 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0624 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0633 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0640 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0647 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0655 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0669 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0678 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0693 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0701 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0710 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0719 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0725 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.0735 	DEBUG 	Upload of Texture Font fontname complete
+11.0837 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0842 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0847 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0852 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0854 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0875 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0880 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0885 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0887 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.0889 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.0905 	DEBUG 	Upload of Texture Font fontname complete
+11.1741 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1746 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1749 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1753 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1755 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1757 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1760 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1763 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1766 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1768 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.1784 	DEBUG 	Upload of Texture Font fontname complete
+11.1874 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1879 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1884 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1888 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1891 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1895 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1900 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1904 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1909 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1913 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1918 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1924 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1929 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1935 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1939 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1945 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1952 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1960 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1965 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1968 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1974 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1981 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.1984 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.1995 	DEBUG 	Upload of Texture Font fontname complete
+11.2071 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2075 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2080 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2089 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2096 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2098 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.2110 	DEBUG 	Upload of Texture Font fontname complete
+0.0123 	EXP 	consent_box: autoLog = True
+0.0123 	EXP 	question_text: autoLog = True
+0.0123 	EXP 	answer_box: autoLog = True
+0.0123 	EXP 	textbox: autoLog = True
+0.0123 	EXP 	textbox_2: autoLog = True
+0.0123 	EXP 	feedback_text: autoLog = True
+0.0269 	INFO 	Keyboard events cleared
+0.0268 	EXP 	consent_box: autoDraw = True
+3.8756 	EXP 	Device response: <KeyPress from None: t=3.7968147000065073, value=space, duration=None>
+3.8813 	DEBUG 	Read excel file with openpyxl: first_content.xlsx
+3.8819 	EXP 	Imported first_content.xlsx as conditions, 1 conditions, 4 params
+3.8822 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'question': 'Why is an interdisciplinary approach important in the Human and AI master programme that brings together psychology, philosophy, and computer science?', 'answer': 'From a philosophical perspective, an interdisciplinary Human and AI programme is vital because it forces us to confront questions that cannot be answered from within a single discipline. AI systems challenge our concepts of agency, explanation, knowledge, and responsibility. Philosophers can help articulate what it means to understand a model’s output, to give a justification rather than just a prediction, or to assign moral responsibility when decisions are distributed across humans and machines. However, these questions must be informed by psychological evidence about how people actually reason with AI systems, and by technical understanding of what current models can and cannot represent. Interdisciplinarity prevents purely abstract speculation and purely technical optimisation, connecting normative reflection with empirical constraints.', 'perspective': 'Philosophy', 'source_type': 'AI', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+3.8841 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8847 	DEBUG 	Uploading Texture Font fontname to graphics card
+3.8853 	DEBUG 	Upload of Texture Font fontname complete
+3.8864 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8869 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8873 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8877 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8880 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8883 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8886 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8890 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8895 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8899 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8901 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8905 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8909 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8914 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8917 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8922 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8925 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8929 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8935 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8940 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8945 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8950 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8957 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8961 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8967 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8973 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.8978 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.9003 	DEBUG 	Uploading Texture Font fontname to graphics card
+3.9008 	DEBUG 	Upload of Texture Font fontname complete
+3.9028 	DATA 	Keypress: space
+3.9258 	INFO 	Keyboard events cleared
+3.9257 	EXP 	consent_box: autoDraw = False
+3.9257 	EXP 	question_text: autoDraw = True
+3.9257 	EXP 	answer_box: autoDraw = True
+3.9920 	EXP 	Device response: <KeyPress from None: t=3.7968147000065073, value=space, duration=0.191236900005606>
+9.9903 	EXP 	Device response: <KeyPress from None: t=9.989491000000271, value=space, duration=None>
+9.9928 	DATA 	Keypress: space
+10.0042 	INFO 	Keyboard events cleared
+10.0041 	EXP 	question_text: autoDraw = False
+10.0041 	EXP 	answer_box: autoDraw = False
+10.0041 	EXP 	textbox: autoDraw = True
+10.2255 	EXP 	Device response: <KeyPress from None: t=9.989491000000271, value=space, duration=0.23141260001284536>
+11.8383 	DATA 	Keypress: a
+11.8563 	EXP 	Device response: <KeyPress from None: t=11.837670799999614, value=a, duration=None>
+11.8695 	INFO 	Keyboard events cleared
+11.8694 	EXP 	textbox: autoDraw = False
+11.8694 	EXP 	textbox_2: autoDraw = True
+11.9882 	EXP 	Device response: <KeyPress from None: t=11.837670799999614, value=a, duration=0.1495141000050353>
+13.6874 	EXP 	Device response: <KeyPress from None: t=13.676625899999635, value=n, duration=None>
+13.6899 	DATA 	Keypress: n
+13.7026 	INFO 	Keyboard events cleared
+13.7025 	EXP 	textbox_2: autoDraw = False
+13.7025 	EXP 	feedback_text: autoDraw = True
+13.8206 	EXP 	Device response: <KeyPress from None: t=13.676625899999635, value=n, duration=0.1399610000080429>
+19.9010 	DATA 	Mouse: Left button down, pos=(722,465)
+20.1183 	DATA 	Mouse:  Left button up, pos=(722,465)
+20.7356 	EXP 	Device response: <KeyPress from None: t=20.724893700011307, value=escape, duration=None>
+20.7369 	DATA 	Keypress: escape
+21.0015 	EXP 	Device response: <KeyPress from None: t=20.724893700011307, value=escape, duration=0.27196420000109356>
+21.0015 	EXP 	DeepTrust: status = STOPPED
+21.0161 	EXP 	feedback_text: autoDraw = False
+21.0185 	EXP 	DeepTrust: status = STOPPED
+21.0244 	INFO 	saved data to 'C:\\Users\\riyaz\\OneDrive\\Desktop\\Psy-exp\\data\\pilot_DeepTrust_2025-12-11_11h33.23.927.csv'
+21.0254 	INFO 	saved data to C:\Users\riyaz\OneDrive\Desktop\Psy-exp\data\pilot_DeepTrust_2025-12-11_11h33.23.927.psydat
+21.2797 	DEBUG 	Saving data for DeepTrust ExperimentHandler
+21.2833 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.2974 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.2974 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.2974 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.2974 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+21.2974 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

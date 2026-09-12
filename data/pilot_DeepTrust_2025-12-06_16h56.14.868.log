@@ -1,0 +1,111 @@
+5.3961 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+5.3973 	INFO 	Loaded monitor calibration from ['2025_11_20 17:14']
+5.5025 	INFO 	Using renderer 'Intel(R) Iris(R) Xe Graphics' for graphics
+5.5025 	INFO 	OpenGL version supported by driver is 4..
+5.5131 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A1A9B1E650>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A1A9B1E5F0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.7569, 1.    , 1.    ]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001A1A9C177F0>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(560.0), np.float64(240.0)], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.5131 	EXP 	window1: backgroundImage = ''
+5.5131 	EXP 	window1: backgroundFit = 'none'
+5.5312 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5411 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5505 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5600 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5702 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5801 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.5910 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6026 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6118 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6212 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6313 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6404 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6505 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6604 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6698 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6792 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6891 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.6991 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7097 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7203 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7299 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7303 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.7345 	DEBUG 	Upload of Texture Font fontname complete
+5.7479 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7582 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7684 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7686 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.7717 	DEBUG 	Upload of Texture Font fontname complete
+5.7731 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.7732 	EXP 	window1: recordFrameIntervals = False
+5.9482 	EXP 	window1: recordFrameIntervals = True
+6.1325 	EXP 	Screen (0) actual frame rate measured at 59.73Hz
+6.1325 	EXP 	window1: recordFrameIntervals = False
+6.1470 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1564 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1657 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1750 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1844 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.1941 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.2037 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.2136 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.2255 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.2361 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.2365 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.2370 	DEBUG 	Upload of Texture Font fontname complete
+6.3502 	INFO 	keyboard.Keyboard is using ptb backend.
+6.3503 	INFO 	keyboard.Keyboard is using ptb backend.
+6.3504 	INFO 	keyboard.Keyboard is using ptb backend.
+6.3504 	EXP 	DeepTrust: status = STARTED
+6.3548 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3556 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3563 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3570 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3577 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3583 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3588 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3595 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3602 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3608 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3615 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3622 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3629 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3636 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3644 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3652 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3659 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3666 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3672 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3680 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3686 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3693 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3700 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3708 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3716 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3725 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3732 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3739 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3747 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3755 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3763 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3772 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3781 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3788 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3798 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3808 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3817 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3826 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3834 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3841 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3849 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3865 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3875 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3891 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3900 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3909 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3918 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.3923 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.3934 	DEBUG 	Upload of Texture Font fontname complete
+6.4427 	DEBUG 	Saving data for DeepTrust ExperimentHandler
+6.4433 	INFO 	saved data to C:\Users\riyaz\OneDrive\Desktop\Psy-exp\data\pilot_DeepTrust_2025-12-06_16h56.14.868.psydat
+6.4437 	INFO 	saved data to 'C:\\Users\\riyaz\\OneDrive\\Desktop\\Psy-exp\\data\\pilot_DeepTrust_2025-12-06_16h56.14.868.csv'
+6.4466 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+6.4516 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+6.4517 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
